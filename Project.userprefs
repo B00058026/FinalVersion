@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\enemyAIv2.cs">
+    <Files>
+      <File FileName="Assets\PlayerEnvironment\PlayerInterface\HealthBar\Health.cs" Line="24" Column="73" />
+      <File FileName="Assets\Scripts\enemyAIv2.cs" Line="23" Column="14" />
+      <File FileName="Assets\PlayerEnvironment\Pickups\Scripts\TreeHealth.cs" Line="26" Column="78" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
